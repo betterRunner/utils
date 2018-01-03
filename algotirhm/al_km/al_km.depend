@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508218738 source:/home/kjim/code/little-code/algotirhm/al_km/main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"al_km.hpp"
+
+1508232611 /home/kjim/code/little-code/algotirhm/al_km/al_km.hpp
+	<cstdio>
+	<algorithm>
+	<vector>
+

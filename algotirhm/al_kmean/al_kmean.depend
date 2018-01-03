@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1493288731 source:f:\ccode\c++\littlecode\al_kmean\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"al_kmeans.hpp"
+
+1493288731 .hpp"
+
+1493289289 f:\ccode\c++\littlecode\al_kmean\al_kmeans.hpp
+	<math.h>
+	<complex>
+	<algorithm>
+	<iostream>
+	<vector>
+
+1493289289 
+
+1493288732 source:/home/kjim/code/little-code/al_kmean/main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"al_kmeans.hpp"
+
+1505369502 /home/kjim/code/little-code/al_kmean/al_kmeans.hpp
+	<math.h>
+	<complex>
+	<algorithm>
+	<iostream>
+	<vector>
+
